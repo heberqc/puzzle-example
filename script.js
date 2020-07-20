@@ -12,4 +12,3 @@ function drop(ev) {
   ev.target.appendChild(document.getElementById(data));
   // alert("drop");
 }
-
